@@ -9,7 +9,7 @@
 [Java](Word_Reactions.java)
 
 ### 3. Whack-A-Mole
-[C++](whackamole.cpp)
+[C++](Whack_A_Mole.cpp)
 
 ### 4. Minimum Spanning Tree
 [Java](Minimum_Spanning_Tree.java)
