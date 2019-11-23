@@ -1,6 +1,6 @@
 # Intermediate Computer Team 2019-2020 In-House Contest #1 Solutions
 
-[In-House 1 Solutions](ICT In-House Contest 1 Solutions Lecture.pdf)
+[In-House 1 Solutions](InHouseContest1Solutions.pdf)
 
 ### 1. Multidimensional Travels
 [Java](Multidimensional_Travels.java)
