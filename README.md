@@ -25,7 +25,7 @@
 [Python](Panic_Attack.py)
 
 ## In-House Contest 2
-[In-House Contest 2 Solutions](InHouse2)
+[In-House Contest 2 Solutions](ICT In House Contest 2 Solutions Lecture.pdf)
 
 ### 1. Corporate Crisis (Part 2)
 [C++](corporate_crisis_pt2.cpp)
@@ -37,7 +37,7 @@
 [C++](Whack_A_Mole.cpp)
 
 ### 4. Mountain Climbing Trip
-[Java](Minimum_Spanning_Tree.java)
+[Java](MountainClimbing.java)
 
 ### 5. Coronavirus
 [Java](Everyone_Loves_Popeyes.java)
@@ -52,7 +52,7 @@
 [Python](Panic_Attack.py)
 
 ### 9. Sarah's Rose Garden
-[Python](Panic_Attack.py)
+[Java](RoseGarden.java)
 
 ### 10. Time Crunch
 [Python](Panic_Attack.py)
