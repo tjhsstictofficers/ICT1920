@@ -1,5 +1,6 @@
 # Intermediate Computer Team 2019-2020 In-House Contest Solutions
 
+## In-House Contest 1
 [In-House Contest 1 Solutions](InHouseContest1Solutions.pdf)
 
 ### 1. Multidimensional Travels
@@ -23,6 +24,7 @@
 ### 7. Panic Attack
 [Python](Panic_Attack.py)
 
+## In-House Contest 2
 [In-House Contest 2 Solutions](InHouse2)
 
 ### 1. Corporate Crisis (Part 2)
