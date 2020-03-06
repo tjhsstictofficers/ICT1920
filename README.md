@@ -25,7 +25,7 @@
 [Python](Panic_Attack.py)
 
 ## In-House Contest 2
-[In-House Contest 2 Solutions](ICT In House Contest 2 Solutions Lecture.pdf)
+[In-House Contest 2 Solutions](InHouse2Solutions.pdf)
 
 ### 1. Corporate Crisis (Part 2)
 [C++](corporate_crisis_pt2.cpp)
