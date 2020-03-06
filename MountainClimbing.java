@@ -47,7 +47,6 @@ public class MountainClimbing
       a[i].num = num;
    }
    
-    
    public static int dp()
    {
       int ans = 0;
@@ -108,7 +107,4 @@ public class MountainClimbing
       System.out.println(ans);   
       sc.close();
    }	
-
-
-
 }
