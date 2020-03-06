@@ -19,8 +19,7 @@ public class RoseGarden
          task[i] = Integer.parseInt(sc.nextLine());
        
       Arrays.sort(task);
-   
-              
+       
       for (int i=0; i<M; i++)
          cost[i] = Integer.parseInt(sc.nextLine());
      
