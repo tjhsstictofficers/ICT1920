@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class ubi { 
+public class Ubi { 
    static int segmax[];
    static long segsum[];
    static int a[];
