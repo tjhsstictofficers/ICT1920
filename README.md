@@ -49,7 +49,7 @@
 [Python](Panic_Attack.py)
 
 ### 8. Richard's Cookies
-[Python](Panic_Attack.py)
+[Python](Richards_Cookies.java)
 
 ### 9. Sarah's Rose Garden
 [Java](RoseGarden.java)
