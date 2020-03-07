@@ -40,13 +40,13 @@
 [Java](MountainClimbing.java)
 
 ### 5. Coronavirus
-[Java](Everyone_Loves_Popeyes.java)
+[Java](Corona.java)
 
 ### 6. More Smarter
 [Java](Streaks.java)
 
 ### 7. Universal Basic Income
-[Python](Panic_Attack.py)
+[Java](Ubi.java)
 
 ### 8. Richard's Cookies
 [Java](Richards_Cookies.java)
