@@ -43,7 +43,7 @@
 [Java](Everyone_Loves_Popeyes.java)
 
 ### 6. More Smarter
-[Java](Projects.java)
+[Java](Streaks.java)
 
 ### 7. Universal Basic Income
 [Python](Panic_Attack.py)
