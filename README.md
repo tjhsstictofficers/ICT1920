@@ -34,7 +34,7 @@
 [C++](corporate_crisis.cpp)
 
 ### 3. Prerequisites
-[C++](Whack_A_Mole.cpp)
+[Java](Prerequisites.java)
 
 ### 4. Mountain Climbing Trip
 [Java](MountainClimbing.java)
