@@ -29,5 +29,4 @@ public class Richards_Cookies {
    
       sc.close();
    }
-
 }
